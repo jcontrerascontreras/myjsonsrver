@@ -5,6 +5,12 @@
       "description": "Conocida como la Bahía más hermosa de América; ésta es una de las playas emblemáticas de la ciudad, ubicada en el sector más importante",
       "rating": 4.5,
       "urlPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTymhhXePFd1bK_cbVc8fGjKofhSuxGFl0KQF-fGGYumKZrpXdduhObIs53oLI1XgGdnM&usqp=CAU"
+    },
+    {
+      "name": "El rodadero",
+      "description": "Este emplazamiento geográfico tiene todas las ventajas de la naturaleza, especialmente el tranquilo y limpio mar que no ofrece peligro alguno para los bañistas y que se presta para el ejercicio de casi todos los deportes acuáticos.",
+      "rating": 4.5,
+      "urlPhoto": "https://www.hoydiariodelmagdalena.com.co/wp-content/uploads/2020/06/Bah%C3%ADa-de-El-Rodadero.jpg"
     }
   ]
 }
